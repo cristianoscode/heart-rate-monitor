@@ -79,7 +79,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For questions or feedback, feel free to reach out:
 - **Your Name**  
 - **Email**: cristiano.oliveira.lopes05@aluno.ifce.edu.br
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/cristianoelopes/)  
-- **GitHub**: [Your GitHub Profile](https://github.com/cristianoscode)
+- **LinkedIn**: [Cristiano Oliveira Lopes](https://www.linkedin.com/in/cristianoelopes/)  
+- **GitHub**: [Cristiano's code](https://github.com/cristianoscode)
 
 ---
